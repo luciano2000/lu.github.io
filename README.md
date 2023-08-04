@@ -1,5 +1,5 @@
 # Official repository of my Resume.
-Please access [https://lu.github.io](https://lu.github.io)
+Please access [https://luciano2000.github.io](https://luciano2000.github.io)
 
 If you prefer the Portuguese version (lighter, markdown), access [here](/2023/README.md).
 
@@ -7,6 +7,6 @@ If you prefer the Portuguese version (lighter, markdown), access [here](/2023/RE
 
 # Repositório oficial do meu Currículo.
 
-Por favor, acesse [https://lu.github.io](https://lu.github.io)
+Por favor, acesse [https://luciano2000.github.io](https://luciano2000.github.io)
 
 Se prefere a versão em português (mais leve leve, markdown), acesse [aqui](/2023/README.md).
