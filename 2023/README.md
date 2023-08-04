@@ -1,11 +1,9 @@
 # Luciano Rocha - Head de AdOps e Programática
 
 ### 47 anos - Casado - Zona Sul de SP - Trabalho Presencial ou Remoto
-
-    e-mail >> rochas@gmail.com
-    celular >> +55 (11) 98643-7830
-    linkedin >> https://www.linkedin.com/in/luciano2000
-
+ - [ ] +55 11 98643-7830
+ - [ ] rochas@gmail.com
+ - [ ] https://www.linkedin.com/in/luciano2000
 ## Resumo
 Com mais de **23 anos de experiência** nas áreas de operações de publicidade (OPEC/AdOps), liderei equipes e assegurei a entrega excelente de todas as campanhas de publicidade direta e programática. 
 Atuo do lado do **publisher**, otimizando e criando novos processos, analisando gargalos e implementando melhorias em toda a estrutura, inclusive como **AdTech**. 
