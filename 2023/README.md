@@ -4,9 +4,11 @@
 ☎️
 
     +55 11 98643-7830
+
 📫
 
     rochas@gmail.com
+
 🔗
 
     https://www.linkedin.com/in/luciano2000
