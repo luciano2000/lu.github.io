@@ -2,10 +2,13 @@
 
 ### 47 anos - Casado - Zona Sul de SP - Trabalho Presencial ou Remoto
 ☎️
+
     +55 11 98643-7830
 📫
+
     rochas@gmail.com
 🔗
+
     https://www.linkedin.com/in/luciano2000
 
 ## Resumo
