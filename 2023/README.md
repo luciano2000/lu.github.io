@@ -124,7 +124,7 @@ Filho único, nascido e criado em um bairro da periferia de SP (Vila Missionári
 Costumo ver o lado bom de tudo, valorizo muito a família e amigos. Curioso por natureza, sou apaixonado por aviação, tecnologia, programação, linux, publicidade online e games retrô (mas também brinco com os novos). Também gosto muito de cozinhar. Ultimamente estou lendo muito sobre física quântica e IA. Minha série preferida é DARK (Netflix).
 Pai do Gustavo, marido da Melissa, casado desde 2007.
 
-Luciano Rocha
+**Luciano Rocha**
 rochas@gmail.com
 (11) 98643-7830
 > Percorrer muitas estradas/voltar para casa/e olhar tudo como se fosse pela primeira vez. 
