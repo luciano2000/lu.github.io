@@ -118,3 +118,14 @@ Liderança efetiva na gestão do time de AdOps e Programática, assegurando um a
 - Rapidamente assumi a responsabilidade pela manutenção do sistema de vendas/pós-venda da empresa.  
 - Liderava o aprimoramento contínuo do sistema escrito em Clipper, garantindo sua funcionalidade e corrigindo bugs recorrentes.  
 - Desenvolvi habilidades significativas em manutenção de sistemas, abrangendo ajustes e correções necessários para otimizar o desempenho.
+
+## Hobbies, horas vagas e perfil
+Filho único, nascido e criado em um bairro da periferia de SP (Vila Missionária), com uma vida simples porém honrada. Sempre rodado de amigos, e sempre incentivando a turma a continuar no "right path".
+Costumo ver o lado bom de tudo, valorizo muito a família e amigos. Sou apaixonado por aviação, tecnologia, programação, linux, publicidade online e games retrô (mas também brinco com os novos). Também gosto muito de cozinhar. Minha série preferida é DARK (Netflix)
+Pai do Gustavo, marido da Melissa, casado desde 2007.
+
+Luciano Rocha
+rochas@gmail.com
+(11) 98643-7830
+> Percorrer muitas estradas/voltar para casa/e olhar tudo como se fosse pela primeira vez. 
+> T.S. Eliot
