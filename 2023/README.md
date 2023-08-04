@@ -121,7 +121,7 @@ Liderança efetiva na gestão do time de AdOps e Programática, assegurando um a
 
 ## Hobbies, horas vagas e perfil
 Filho único, nascido e criado em um bairro da periferia de SP (Vila Missionária), com uma vida simples porém honrada. Sempre rodeado de amigos, e sempre incentivando a turma a continuar no "right path".
-Costumo ver o lado bom de tudo, valorizo muito a família e amigos. Curioso por natureza, sou apaixonado por aviação, tecnologia, programação, linux, publicidade online e games retrô (mas também brinco com os novos). Também gosto muito de cozinhar. Últimamente estou lendo muito sobre física quântica e IA. Minha série preferida é DARK (Netflix)
+Costumo ver o lado bom de tudo, valorizo muito a família e amigos. Curioso por natureza, sou apaixonado por aviação, tecnologia, programação, linux, publicidade online e games retrô (mas também brinco com os novos). Também gosto muito de cozinhar. Ultimamente estou lendo muito sobre física quântica e IA. Minha série preferida é DARK (Netflix).
 Pai do Gustavo, marido da Melissa, casado desde 2007.
 
 Luciano Rocha
