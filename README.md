@@ -2,4 +2,4 @@
 
 Por favor, acesse [https://lu.github.io](https://lu.github.io)
 
-Se prefere a versão leva markdown, acesse [aqui](/luciano2000.md).
+Se prefere a versão leve markdown, acesse [aqui](/luciano2000.md).
