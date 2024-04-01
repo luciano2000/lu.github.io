@@ -12,7 +12,7 @@ Gestão do time de compra de mídia em agências, assegurando a melhor performan
 
 
 ## <a name="lista"></a>Experiência Profissional (clique para detalhes)
-- [**Head de AdOps & Programática** - AD TEC - 10/2023 - atual](#adtec)
+- [**Founder & CEO** - AD TEC - 10/2023 - atual](#adtec)
 - [**Head de AdOps & Programática** - Diários Associados - 10/2023 - atual](#da)
 - [**Head de AdOps & Programática** - exame - 05/2022 a 05/2023](#exame)
 - [**Gerente de Opec** - CNN Brasil - 05/2021 a 05/2022](#cnn)
@@ -28,31 +28,35 @@ Gestão do time de compra de mídia em agências, assegurando a melhor performan
 - [**Auxiliar Administrattivo** - Ferramentas ETROC - 07/1995 a 01/1998](#etroc)
 
 ## Formação
-a
+Bacharel em Ciências da Computação - 2004 - FMU
+
 ## Cursos e Certificados
-a
+- Certificado Google Digital & Video 360
+- Certificado Google AdManager 360
+- Certificado Google Analytics
+- Javascript / PHP / Python
+
+## Idiomas
+- Inglês - Avançado.
+- Espanhol - Básico
+
 ## Experiência Profissional - Detalhes
 
 ### <a name="adtec"></a>**Founder & CEO** - [AD TEC](https://ad.tec.br) - 10/2023 - atual
-Liderança efetiva na gestão do time de AdOps e Programática, assegurando um ambiente de trabalho produtivo e orientado para resultados.  
-- Realizei uma abrangente revisão e reconfiguração de todas as tags do site, otimizando a infraestrutura técnica para uma operação mais eficaz.  
-- Conduzi iniciativas de melhoria na velocidade de carregamento dos banners, aprimorando a experiência do usuário e a eficiência das campanhas.  
-- Alcançei uma notável diminuição de 40% no Unfilled, evidenciando minha habilidade em otimizar o inventário e maximizar o preenchimento.  
-- Gerenciei de forma estratégica a mídia programática, negociação de deals, parcerias e a implementação de novos formatos, contribuindo para a diversificação das opções publicitárias.  
-- Fui responsável pelo desenvolvimento de formatos especiais inovadores, demonstrando criatividade e capacidade técnica para atender às necessidades únicas dos clientes.
+- Idealizador e fundador de Startup de Monetização baseada em AI
+- Apresentação da tecnologia para agências e publishers.
 [voltar à lista](#lista)
 
 ### <a name="da"></a>**Head de AdOps & Programática** - [Diários Associados](https://www.linkedin.com/company/diarios-associados/) - 10/2023 - atual
-Liderança efetiva na gestão do time de AdOps e Programática, assegurando um ambiente de trabalho produtivo e orientado para resultados.  
-- Realizei uma abrangente revisão e reconfiguração de todas as tags do site, otimizando a infraestrutura técnica para uma operação mais eficaz.  
-- Conduzi iniciativas de melhoria na velocidade de carregamento dos banners, aprimorando a experiência do usuário e a eficiência das campanhas.  
-- Alcançei uma notável diminuição de 40% no Unfilled, evidenciando minha habilidade em otimizar o inventário e maximizar o preenchimento.  
-- Gerenciei de forma estratégica a mídia programática, negociação de deals, parcerias e a implementação de novos formatos, contribuindo para a diversificação das opções publicitárias.  
-- Fui responsável pelo desenvolvimento de formatos especiais inovadores, demonstrando criatividade e capacidade técnica para atender às necessidades únicas dos clientes.
+- Gestão do time de AdOps & Programática
+- Negociação com agências e clientes.
+- Análise e estudo de viabilidade para parceiros de monetização.
+- Gestão de desenvolvimento de novos formatos de publicidade.
+- Controle de receita e report e apresentação de resultados.
 [voltar à lista](#lista)
 
 ### <a name="exame"></a>**Head de AdOps & Programática** - [exame](https://exame.com) - 05/2022 a 05/2023
-Liderança efetiva na gestão do time de AdOps e Programática, assegurando um ambiente de trabalho produtivo e orientado para resultados.  
+- Liderança efetiva na gestão do time de AdOps e Programática, assegurando um ambiente de trabalho produtivo e orientado para resultados.  
 - Realizei uma abrangente revisão e reconfiguração de todas as tags do site, otimizando a infraestrutura técnica para uma operação mais eficaz.  
 - Conduzi iniciativas de melhoria na velocidade de carregamento dos banners, aprimorando a experiência do usuário e a eficiência das campanhas.  
 - Alcançei uma notável diminuição de 40% no Unfilled, evidenciando minha habilidade em otimizar o inventário e maximizar o preenchimento.  
