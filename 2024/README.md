@@ -1,12 +1,14 @@
 # Luciano Rocha - Head de AdOps e Programática
 >rochas@gmail.com
+>
 >[(11) 98643-7830](tel:+5511986437830)
 
 ## Resumo
-Com mais de **23 anos de experiência** nas áreas de operações de publicidade (OPEC/AdOps), liderei equipes e assegurei a entrega excelente de todas as campanhas de publicidade direta e programática. 
-Atuo do lado do **publisher**, otimizando e criando novos processos, analisando gargalos e implementando melhorias em toda a estrutura, inclusive como **AdTech**. 
-Aplico aprimoramentos e otimizações no carregamento de publicidade e em todo o ecossistema comercial, assim como realizo estudos de novos parceiros e header bidding. 
-Também atuo do lado de **agências**/**anunciantes**, gerenciando toda a equipe de mídia digital, otimizando todas as campanhas com foco em performance e resultados. Mantenho-me atualizado sobre novas tecnologias e oportunidades de parcerias de entrega.
+Com mais de **24 anos de experiência** na área de publicidade digital, liderei equipes de mídia digital, tanto de vendas de campanhas diretas como programáticas. 
+Liderei equipes de desenvolvimento de produtos digitais de publicidade. 
+Criei e otimizei processos da área com base em melhores práticas, assim como melhorias técnicas assegurando boas práticas e otimização de velocidade de carregamento de publicidade. 
+Ótimo relacionamento com clientes e agências, também fui responsável por analisar a viabilidade e integração de parceiros de monetização, fazendo a gestão de todos os projetos de entredass de parceiros. 
+Gestão do time de compra de Mídia em agências, assegurando a melhor performance e otimização para o cliente, cumprindo sempre os melhores KPIs.
 
 
 ## <a name="lista"></a>Experiência Profissional (clique para detalhes)
