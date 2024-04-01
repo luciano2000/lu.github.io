@@ -1,6 +1,6 @@
 # Luciano Rocha - Head de AdOps e Programática
->rochas@gmail.com
->
+>[rochas@gmail.com](mailro:rochas@gmail.com)
+
 >[(11) 98643-7830](tel:+5511986437830)
 
 ## Resumo
