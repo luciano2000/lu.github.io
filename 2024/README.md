@@ -1,6 +1,6 @@
-# Luciano Rocha - Head de AdOps e Programática
+# Luciano Rocha - Head de AdOps, Mídia e Programática
 >[rochas@gmail.com](mailro:rochas@gmail.com)
-
+>
 >[(11) 98643-7830](tel:+5511986437830)
 
 ## Resumo
@@ -8,10 +8,12 @@ Com mais de **24 anos de experiência** na área de publicidade digital, liderei
 Liderei equipes de desenvolvimento de produtos digitais de publicidade. 
 Criei e otimizei processos da área com base em melhores práticas, assim como melhorias técnicas assegurando boas práticas e otimização de velocidade de carregamento de publicidade. 
 Ótimo relacionamento com clientes e agências, também fui responsável por analisar a viabilidade e integração de parceiros de monetização, fazendo a gestão de todos os projetos de entredass de parceiros. 
-Gestão do time de compra de Mídia em agências, assegurando a melhor performance e otimização para o cliente, cumprindo sempre os melhores KPIs.
+Gestão do time de compra de mídia em agências, assegurando a melhor performance e otimização para o cliente, cumprindo sempre os melhores KPIs.
 
 
 ## <a name="lista"></a>Experiência Profissional (clique para detalhes)
+- [**Head de AdOps & Programática** - AD TEC - 10/2023 - atual](#adtec)
+- [**Head de AdOps & Programática** - Diários Associados - 10/2023 - atual](#da)
 - [**Head de AdOps & Programática** - exame - 05/2022 a 05/2023](#exame)
 - [**Gerente de Opec** - CNN Brasil - 05/2021 a 05/2022](#cnn)
 - [**Gerente de Mídia** - Wunderman Thompson - 03/2020 a 05/2021](#wunderman)
@@ -30,6 +32,24 @@ a
 ## Cursos e Certificados
 a
 ## Experiência Profissional - Detalhes
+
+### <a name="adtec"></a>**Founder & CEO** - [AD TEC](https://ad.tec.br) - 10/2023 - atual
+Liderança efetiva na gestão do time de AdOps e Programática, assegurando um ambiente de trabalho produtivo e orientado para resultados.  
+- Realizei uma abrangente revisão e reconfiguração de todas as tags do site, otimizando a infraestrutura técnica para uma operação mais eficaz.  
+- Conduzi iniciativas de melhoria na velocidade de carregamento dos banners, aprimorando a experiência do usuário e a eficiência das campanhas.  
+- Alcançei uma notável diminuição de 40% no Unfilled, evidenciando minha habilidade em otimizar o inventário e maximizar o preenchimento.  
+- Gerenciei de forma estratégica a mídia programática, negociação de deals, parcerias e a implementação de novos formatos, contribuindo para a diversificação das opções publicitárias.  
+- Fui responsável pelo desenvolvimento de formatos especiais inovadores, demonstrando criatividade e capacidade técnica para atender às necessidades únicas dos clientes.
+[voltar à lista](#lista)
+
+### <a name="da"></a>**Head de AdOps & Programática** - [Diários Associados](https://www.linkedin.com/company/diarios-associados/) - 10/2023 - atual
+Liderança efetiva na gestão do time de AdOps e Programática, assegurando um ambiente de trabalho produtivo e orientado para resultados.  
+- Realizei uma abrangente revisão e reconfiguração de todas as tags do site, otimizando a infraestrutura técnica para uma operação mais eficaz.  
+- Conduzi iniciativas de melhoria na velocidade de carregamento dos banners, aprimorando a experiência do usuário e a eficiência das campanhas.  
+- Alcançei uma notável diminuição de 40% no Unfilled, evidenciando minha habilidade em otimizar o inventário e maximizar o preenchimento.  
+- Gerenciei de forma estratégica a mídia programática, negociação de deals, parcerias e a implementação de novos formatos, contribuindo para a diversificação das opções publicitárias.  
+- Fui responsável pelo desenvolvimento de formatos especiais inovadores, demonstrando criatividade e capacidade técnica para atender às necessidades únicas dos clientes.
+[voltar à lista](#lista)
 
 ### <a name="exame"></a>**Head de AdOps & Programática** - [exame](https://exame.com) - 05/2022 a 05/2023
 Liderança efetiva na gestão do time de AdOps e Programática, assegurando um ambiente de trabalho produtivo e orientado para resultados.  
