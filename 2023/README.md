@@ -28,6 +28,7 @@ a
 ## Cursos e Certificados
 a
 ## Experiência Profissional - Detalhes
+
 ### <a name="exame"></a>**Head de AdOps & Programática** - [exame](https://exame.com) - 05/2022 a 05/2023
 Liderança efetiva na gestão do time de AdOps e Programática, assegurando um ambiente de trabalho produtivo e orientado para resultados.  
 - Realizei uma abrangente revisão e reconfiguração de todas as tags do site, otimizando a infraestrutura técnica para uma operação mais eficaz.  
@@ -36,12 +37,14 @@ Liderança efetiva na gestão do time de AdOps e Programática, assegurando um a
 - Gerenciei de forma estratégica a mídia programática, negociação de deals, parcerias e a implementação de novos formatos, contribuindo para a diversificação das opções publicitárias.  
 - Fui responsável pelo desenvolvimento de formatos especiais inovadores, demonstrando criatividade e capacidade técnica para atender às necessidades únicas dos clientes.
 [voltar à lista](#lista)
+
 ### <a name="cnn"></a>**Gerente de Opec** - [CNN Brasil](https://www.cnnbrasil.com.br) - 05/2021 a 05/2022
 - Liderança destacada na gestão do time de OPEC, abrangendo as áreas de TV e Digital, garantindo uma operação eficaz e bem coordenada.  
 - Exerci controle rigoroso sobre a entrada de campanhas, PIs, projetos especiais e eventos, mantendo um fluxo de trabalho organizado e eficiente.  
 - Implementei melhorias significativas em AdTech, otimizando o setup de segmentações e desenvolvendo novas estratégias para a entrega eficaz de banners e vídeos.  
 - Liderança no setup do formato Publicidade de Financiamento de Páginas (PFP) do YouTube no portal da CNN Brasil, proporcionando uma experiência aprimorada para os espectadores.
 [voltar à lista](#lista)
+
 ### <a name="wunderman"></a>**Gerente de Mídia** - [Wunderman Thompson](https://www.wundermanthompson.com/pt/brazil) - 03/2020 a 05/2021
 - Liderança proeminente na gestão do time de mídia de display e vídeo, proporcionando direcionamento eficaz e garantindo um ambiente colaborativo.  
 - Negociei deals estratégicos com publishers, otimizando oportunidades de exposição e maximizando o retorno do investimento.  
@@ -50,6 +53,7 @@ Liderança efetiva na gestão do time de AdOps e Programática, assegurando um a
 - Gerenciei de maneira eficaz todas as campanhas de display e vídeo, focando nos KPIs exigidos e garantindo a obtenção de resultados alinhados com as metas.  
 - Colaboração estreita com o time de planejamento resultou na elaboração e execução bem-sucedida de planos de mídia estratégicos.
 [voltar à lista](#lista)
+
 ### <a name="supportcomm"></a>**Head de Operações Comerciais** - [SupportComm](https://www.linkedin.com/company/supportcomm) - 11/2018 a 03/2020
 - Liderança efetiva na gestão da equipe de OPEC, garantindo uma operação coesa e orientada a resultados.  
 - Assegurei a entrega bem-sucedida de campanhas de publicidade display, áudio e SVA de telefonia, mantendo altos padrões de qualidade e satisfação do cliente.  
@@ -57,6 +61,7 @@ Liderança efetiva na gestão do time de AdOps e Programática, assegurando um a
 - Desenvolvi e implementei processos de OPEC em colaboração com outras áreas, promovendo uma abordagem interdisciplinar e eficiente.  
 - Conduzi iniciativas significativas de melhorias nos produtos e sistemas, contribuindo para a inovação contínua e aprimoramento da oferta da empresa.
 [voltar à lista](#lista)
+
 ### <a name="nobeta"></a>**Diretor de Operações Comerciais e Programatica** - [Nobeta](https://www.nobeta.com.br/) - 10/2017 a 11/2018
 - Desempenhei um papel estratégico na integração e otimização do Google AdX, garantindo um desempenho eficiente e eficaz das operações publicitárias.  
 - Liderando a criação de deals e otimizações de mídia programática, maximizei as oportunidades de monetização e resultados para a empresa e seus clientes.  
@@ -65,6 +70,7 @@ Liderança efetiva na gestão do time de AdOps e Programática, assegurando um a
 - Exerci a gestão eficaz da equipe de OPEC e Publishers, promovendo um ambiente colaborativo e produtivo.  
 - Desenvolvi relatórios gerenciais abrangentes, fornecendo insights valiosos para os investidores acompanharem de perto os resultados e o desempenho.
 [voltar à lista](#lista)
+
 ### <a name="havas"></a>**Gerente de AdOps** - [HAVAS/BETC](https://www.betc.com.br/) - 03/2016 a 10/2017
 - Liderei a gestão estratégica de tags para a agência, garantindo a implementação eficaz e precisa em todas as campanhas.  
 - Responsável pela gestão e otimização abrangentes de campanhas de mídia programática, maximizando o alcance e o impacto para os clientes.  
