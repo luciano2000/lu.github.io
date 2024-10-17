@@ -12,8 +12,8 @@ Gestão do time de compra de mídia em agências, assegurando a melhor performan
 
 
 ## <a name="lista"></a>Experiência Profissional (clique para detalhes)
-- [**Founder & CEO** - AD TEC - 10/2023 - atual](#adtec)
-- [**Head de AdOps & Programática** - Diários Associados - 10/2023 - atual](#da)
+- [**Brazil Manager** - Dailymotion - 06/2024 - atual](#dailymotion)
+- [**Founder & CEO** - AD TEC - 06/2023 - atual](#adtec)
 - [**Head de AdOps & Programática** - exame - 05/2022 a 05/2023](#exame)
 - [**Gerente de Opec** - CNN Brasil - 05/2021 a 05/2022](#cnn)
 - [**Gerente de Mídia** - Wunderman Thompson - 03/2020 a 05/2021](#wunderman)
@@ -42,17 +42,14 @@ Bacharel em Ciências da Computação - 2004 - FMU
 
 ## Experiência Profissional - Detalhes
 
-### <a name="adtec"></a>**Founder & CEO** - [AD TEC](https://ad.tec.br) - 10/2023 - atual
+### <a name="dailymotion"></a>**Brazil Manager** - [Dailymotion](https://www.dailymotion.com) - 06/2024 - atual
 - Idealizador e fundador de Startup de Monetização baseada em AI
 - Apresentação da tecnologia para agências e publishers.
 [voltar à lista](#lista)
 
-### <a name="da"></a>**Head de AdOps & Programática** - [Diários Associados](https://www.linkedin.com/company/diarios-associados/) - 10/2023 - atual
-- Gestão do time de AdOps & Programática
-- Negociação com agências e clientes.
-- Análise e estudo de viabilidade para parceiros de monetização.
-- Gestão de desenvolvimento de novos formatos de publicidade.
-- Controle de receita e report e apresentação de resultados.
+### <a name="adtec"></a>**Founder & CEO** - [AD TEC](https://ad.tec.br) - 06/2023 - atual
+- Idealizador e fundador de Startup de Monetização baseada em AI
+- Apresentação da tecnologia para agências e publishers.
 [voltar à lista](#lista)
 
 ### <a name="exame"></a>**Head de AdOps & Programática** - [exame](https://exame.com) - 05/2022 a 05/2023
