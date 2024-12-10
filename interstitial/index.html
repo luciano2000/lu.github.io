@@ -4,12 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Exemplo de Interstitial</title>
-
+    <style>
+        body {
+            background-color: #C8C8C8;
+        }
+    </style>
     <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
     <script>
       window.googletag = window.googletag || {cmd: []};
       googletag.cmd.push(function() {
         googletag.defineSlot('/21675767498/retrogamer', [300, 250], 'banner-comum').addService(googletag.pubads());
+          
         googletag.pubads().enableSingleRequest();
         googletag.enableServices();
       });
